@@ -11,7 +11,7 @@ sudo bash anon_mnsetup_install.sh
 
 MINIMUM VPS REQUIREMENTS:
 
-1vCPU
-1GB RAM
-30 GB HDD
+1vCPU  
+1GB RAM  
+30 GB HDD  
 Ubuntu 16.04
