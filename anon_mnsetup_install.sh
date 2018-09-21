@@ -113,12 +113,7 @@ addnode=$ADDNODE1
 addnode=$ADDNODE2
 addnode=$ADDNODE3
 txindex=1
-dbcache=50
-maxmempool=300
-maxconnections=16
-maxorphantx=1
-banscore=50
-rpcthreads=1
+maxconnections=256
 EOF
 
 echo "Creating system service file...."
@@ -215,12 +210,7 @@ addnode=$ADDNODE1
 addnode=$ADDNODE2
 addnode=$ADDNODE3
 txindex=1
-dbcache=50
-maxmempool=300
-maxconnections=16
-maxorphantx=1
-banscore=50
-rpcthreads=1
+maxconnections=256
 EOF
 
 sleep 30
